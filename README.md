@@ -1,3 +1,2 @@
 # Sentinel_Index
-University code
- 
+company task
